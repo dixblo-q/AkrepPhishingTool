@@ -52,4 +52,4 @@ cd AkrepPhishingTool
 python3 setup.py
 
 # 3. Tool'u çalıştır
-python3 phish.py
+python3 phisher.py
